@@ -1,0 +1,130 @@
+Rating,Definition,Country_applicable
+ATP , Suitable for all,Argentina
+0, Passed only for persons 7 and over,Argentina
+7, Passed only for persons 7 and over,Argentina
+10, Passed only for persons 10 and over,Argentina
+12, Passed only for persons 12 and over,Argentina
+13, Passed only for persons 13 and over,Argentina
+14, Passed only for persons 14 and over,Argentina
+16, Passed only for persons 16 and over,Argentina
+18, Passed only for persons 18 and over,Argentina
+G , General,Australia
+PG , Parental Guidance for under 15,Australia
+7+ , Older kids (7+),Australia
+13+ , Teens (13+),Australia
+M , 15+ Recommended,Australia
+MA , 15+ Restricted (Under 15 only with an adult),Australia
+16+ , Young adults (16+),Australia
+R , Passed only for persons 18 and over,Australia
+18+ , Adults (18+),Australia
+X ," Sexually Explicit, 18s and over (Possibly only videos)",Australia
+Not Rated,,Bangladesh
+Banned,,Bangladesh
+U,,Bangladesh
+A,,Bangladesh
+Non-commercial,,Bangladesh
+KT , Suitable for all (deprecated),Belgium
+KNT , Unsuitable for children (deprecated),Belgium
+AL/Tous , Suitable for all,Belgium
+6, Passed only for persons 6 and over,Belgium
+9, Passed only for persons 9 and over,Belgium
+12, Passed only for persons 12 and over,Belgium
+14, Passed only for persons 14 and over,Belgium
+16, Passed only for persons 16 and over,Belgium
+18, Passed only for persons 18 and over,Belgium
+Livre , Suitable for all,Brazil
+12, Passed only for persons 12 and over,Brazil
+14, Passed only for persons 14 and over,Brazil
+16, Passed only for persons 16 and over,Brazil
+18, Passed only for persons 18 and over,Brazil
+G , Suitable for all,Canada
+7+ , Suitable for audiences 7 and over,Canada
+PG , Parental Guidance,Canada
+13+ , Passed only for persons 13 and over (under 13 with adult),Canada
+14A , Children under 14 must be accompanied by an adult,Canada
+16+ , Passed only for persons 16 and over,Canada
+18A , Children under 18 must be accompanied by an adult (except Maritimes & Manitoba: no under 14s),Canada
+18+ , Passed only for persons 18 and over,Canada
+R , Passed only for persons 18 and over,Canada
+A , Passed only for persons 18 and over (sexual content),Canada
+TV-Y, Kids,Canada
+TV-G, Kids,Canada
+TV-Y7, Kids,Canada
+TV-Y7-FV,FV ,Canada
+TV-PG, Kids,Canada
+PG-13, Teens,Canada
+TV-14, Teens,Canada
+NC-17, Adult,Canada
+TV-MA, Adult,Canada
+TE , Suitable for all,Chile
+14, Passed only for persons 14 and over,Chile
+18, Passed only for persons 18 and over,Chile
+A , Allowed for all [1913,Denmark
+7," Allowed for all, but unsuitable for persons under 7 [1980",Denmark
+11, Allowed for persons 11 or older (7 with adult) [1997,Denmark
+15, Allowed for persons 15 or older (7 with adult) [1997,Denmark
+12, Allowed for persons 12 or older [1969-1997,Denmark
+16, Allowed for persons 16 or older [1913-1997,Denmark
+Not Rated,,Ecuador
+All , All public,Ecuador
+7+ , Suitable for 7 and above,Ecuador
+13+ , Suitable for 13 and above,Ecuador
+PG,,Ecuador
+R,,Ecuador
+TV-14, Suitable for audiences 14 and over,Ecuador
+All ages , Suitable for all ages,Egypt
+0+ , Suitable for kids,Egypt
+G , General audience,Egypt
+7+ , Suitable for 7 years of age and above,Egypt
+8+ , Suitable for 8 years of age and above,Egypt
+12+ , No persons under 12 years of age will be admitted,Egypt
+R-12, Restricted. Children under 17 require accompanying parent or legal guardian,Egypt
+PG8 , Suitable for 8 years or under with parental guidance,Egypt
+PG-12," Customer may be aged 12 years and under, but must be accompanied by someone 12 years old or older",Egypt
+PG , Parental guidance suggested. Some material may not be suitable for children,Egypt
+PG-13," Customer may be aged 13 years and under, but must be accompanied by someone 13 years old or older",Egypt
+13+ , Suitable for 13 years of age and above,Egypt
+PG-15," Customer may be aged 15 years and under, but must be accompanied by someone 15 years old or older. Please note content may not be appropriate for 15 years and below",Egypt
+16+ , Suitable for 16 years of age and above,Egypt
+18+ , Suitable for 18 years of age and above,Egypt
+R , Restricted. Children under 17 require accompanying parent or legal guardian,Egypt
+Not Rated,,Egypt
+G , Suitable for all,Japan
+PG12 , Children under 12 may attend only if accompanied by a parent or guardian,Japan
+13+ , Suitable for audiences 13 and above,Japan
+R15+ , No one under the age of 15 admitted,Japan
+16+ , Youth,Japan
+R18+ , No one under the age of 18 admitted,Japan
+A , All ages (VG),Japan
+B , No one under the age of 12 (VG),Japan
+C , No one under the age of 15 (VG),Japan
+D , No one under the age of 17 admitted (VG),Japan
+Z , No one under the age of 18 admitted (VG),Japan
+Unrated ," The title has been released but no certificate was delivered. Please note that ""Unrated"" is equivalent to ""NR"" or ""Not Rated"".   ",
+E , Exempt from classification,UK (BBFC)
+U ," Universal, suitable for all",UK (BBFC)
+G , Suitable for all ages,UK (BBFC)
+PG ," Parental Guidance, some scenes may be unsuitable for kids",UK (BBFC)
+12A ," Parental Advisory, children under 12 must be accompanied by an adult",UK (BBFC)
+15, Passed only for persons 15 and over,UK (BBFC)
+18, Passed only for persons 18 and over,UK (BBFC)
+Caution , Suitable for ages 18+,UK (BBFC)
+R18 ," Passed only for persons 18 and over, in specially licensed sex shops or cinemas",UK (BBFC)
+All , Kids,UK (Additional non
+G , Guidance,UK (Additional non
+0+ , Suitable for all ages,UK (Additional non
+6+ , Some scenes may be unsuitable for children under 6,UK (Additional non
+7+ , Older kids (7+),UK (Additional non
+9+ , Some scenes may be unsuitable for children under 9,UK (Additional non
+12+ , Some scenes may be unsuitable for children under 12,UK (Additional non
+13+ , Teens (13+),UK (Additional non
+Teen , Teen,UK (Additional non
+14+ , Some scenes may be unsuitable for children under 14,UK (Additional non
+16,,UK (Additional non
+Mature , Adult,UK (Additional non
+Adult , Adult,UK (Additional non
+G , For all audiences,USA
+PG , Parental Guidance Suggested (mainly for under 10's),USA
+PG-13, Parental Guidance Suggested for children under 13,USA
+R , Under 17 not admitted without parent or guardian,USA
+NC-17, Under 17 not admitted,USA
